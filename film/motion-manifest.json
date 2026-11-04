@@ -1,0 +1,26 @@
+{
+  "title": "Cinematic Tension",
+  "study": "ct01",
+  "bpm": 72,
+  "source_audio": "preview/cinematic-tension-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "d510ce6de220d8f4cee1f11be2d2eea2f8338a1cf701c305b476038504ef14dd",
+  "source_midi": "midi/ct01-closed-door/ct01-closed-door-combined.mid",
+  "source_midi_sha256": "eeadfb685a2eea33cb0030e5db9fbf8e4e6a98d9cb877a43b1162b8537ea4c2b",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "4177f7e626cfbef00ad4fba301e0765919debebc71870ba034df18e4793dee6c",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "071ae4984f20f78bcd43e2d8bd25e5db5a6118349279ccc618f1a6001ae91b92",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "a297159311cda0b127b08c9316f1c9cc95bf5e72a6040de4d6807ca007827f85",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
