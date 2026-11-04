@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ct01,Closed Door,pack-local equal-tempered pitch collection,A,72,4/4,480,32,61440,midi/ct01-closed-door/ct01-closed-door-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ct02,Cold Passage,pack-local equal-tempered pitch collection,C,72,4/4,480,32,61440,midi/ct02-cold-passage/ct02-cold-passage-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ct03,Distant Warning,pack-local equal-tempered pitch collection,D#,72,4/4,480,32,61440,midi/ct03-distant-warning/ct03-distant-warning-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ct04,Edge of Light,pack-local equal-tempered pitch collection,A#,72,4/4,480,32,61440,midi/ct04-edge-of-light/ct04-edge-of-light-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
