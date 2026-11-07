@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 786,
-      "sha256": "44b94a28ec13675ec8488641b10fb3833ff8cf93ed2e2d37dd34af2540758eab"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3565,
-      "sha256": "a87d374f1dcf54ade68557977a9f9de0920ff23cf6151f6bee3458426b87f4ed"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/cinematic-tension-studies-midi.zip",
-      "bytes": 15419,
-      "sha256": "bb5d556c9baa1b00a9539688ee1781009f69a0724c8a092ee82c316c0fbb15db"
+      "bytes": 16569,
+      "sha256": "e1a12fa33b1ef568e42ab1d9bd7e311d57e1529dcefac24aceb0f587c92db01e"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 32596,
       "sha256": "8787d6e0e592f56e66cfd9b1daa4c0ec8c70e2758cb290816d730cfed4234acd"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 493861,
-      "sha256": "a297159311cda0b127b08c9316f1c9cc95bf5e72a6040de4d6807ca007827f85"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9297,
-      "sha256": "e252ecb80faa5aca6ef2dfcf701bcb994fefad803e96e880cc61715bf6f86f63"
+      "bytes": 9487,
+      "sha256": "5bf09518a06c199ee2a2183341f65da10154c3c45c535c4376030f71d87264fd"
     },
     {
       "path": "midi/ct01-closed-door/chord_pulse.mid",
@@ -312,6 +297,16 @@
       "sha256": "82909816961819cead3292897b80cd037065176b18b7d1f5164ee8fbe5b487c0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 786,
+      "sha256": "44b94a28ec13675ec8488641b10fb3833ff8cf93ed2e2d37dd34af2540758eab"
+    },
+    {
       "path": "preview/cinematic-tension-studies-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "d510ce6de220d8f4cee1f11be2d2eea2f8338a1cf701c305b476038504ef14dd"
@@ -320,6 +315,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1139,
       "sha256": "8efac08337d51e3097290d5159c9d941b74fd67c0f09b9e84777fc294d8963b4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3680,
+      "sha256": "c8393d834f866780c0431752722d1cb0a56c65393ef7df2a266cc2cf3ff1962f"
     },
     {
       "path": "social/instagram/caption.txt",
